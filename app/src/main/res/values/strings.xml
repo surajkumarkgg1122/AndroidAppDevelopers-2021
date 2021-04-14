@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">InternshipProgram</string>
+    <string name="txtfullName">Suraj Kumar</string>
+    <string name="LabelDob">DOB</string>
+    <string name="txtDob">14 Apr, 1998</string>
+    <string name="txtGender">Male</string>
+    <string name="txtAadhar">XXXX XXXX 1234</string>
+    <string name="LabelAddress">Address</string>
+    <string name="txtAddress">S/O-Brajesh Kumar Sangahi, Jay Prakash Nagar, Ward No 22, Khagaria, Khagaria, 851204</string>
+    <string name="aadharbottomimg">aadharBottomImg</string>
+    <string name="tipsLabel">Did you Know?</string>
+    <string name="tips">Airports across India accepts Aadhar issued on Digilocker as valid document.</string>
+    <string name="digilocker_verified_badge">Digilocker Verified Badge</string>
+    <string name="Image">User Image</string>
+    <string name="aadhar_top_layout">Aadhar Top Layout</string>
 </resources>
